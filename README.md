@@ -15,7 +15,7 @@ This is an official implementation of [ADRMX: Additive Disentanglement of Domain
 ## Getting Started
 1. **Conda (Recommended)**: 
     ```shell
-    conda env create -n ADRMX
+    conda create -n ADRMX
     conda activate ADRMX
     ```
 
