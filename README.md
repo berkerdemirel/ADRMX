@@ -24,7 +24,7 @@ This is an official implementation of [ADRMX: Additive Disentanglement of Domain
     pip install -r requirements.txt
     ```
 
-3. **Training**: 
+3. **Example Training Command**: 
     ```shell
     cd PROJECT_PATH 
     python -m domainbed.scripts.train --data_dir=./domainbed/data/ --algorithm ADRMX --dataset PACS
